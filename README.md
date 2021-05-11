@@ -1,5 +1,5 @@
-# Домашка 2 "Дисковая подсистема"
-Vagrant файл: <https://github.com/Maxx-4uTeP/otus-linux/blob/master/Vagrantfile>
+# Домашка 3 "Файловые системы и LVM "
+Vagrant файл: <https://github.com/Maxx-4uTeP/Homework_3/blob/master/Vagrantfile>
 
 В файл добавлены несколько HDD и уменьшен их размер с 250 до 100Мб:
 
